@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! I am Shorafot Hoshen</h2>
+<h2 data-importer="text" align="left">Hi 👋! I am SHORAFOT HOSHEN</h2>
 
 ###
 
