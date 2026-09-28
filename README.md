@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/diuj9r1rj/image/upload/v1790613393/file_00000000fd4c8211b784d3d1047871bb_tstsjy.png" alt="Banner" width="100%" />
-
 # 👋 Hi, I'm Shorafot Hoshen
+
+<img src="https://res.cloudinary.com/diuj9r1rj/image/upload/v1790613393/file_00000000fd4c8211b784d3d1047871bb_tstsjy.png" alt="Banner" width="100%" />
 
 ### Full-Stack Developer | CSE Student
 
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 4th year Computer Science & Engineering student focused on full-stack development. I enjoy building web applications, real-time systems and APIs with Django, React and Next.js, and I'm also exploring AI, computer vision and IoT.
+I'm a 4th year Computer Science & Engineering student focused on full-stack development. I enjoy building web applications, real-time systems and APIs with Django, React and Next.js, and I also enjoy IoT projects where I use AI.
 
 ---
 
@@ -35,7 +35,7 @@ I'm a 4th year Computer Science & Engineering student focused on full-stack deve
 - ⚛️ I'm exploring **Advanced React & Next.js**
 - 📱 I'm learning **React Native** for mobile development
 - 🧠 I'm practicing **Data Structures & Algorithms**
-- 🤖 I'm exploring **IOT with AI**
+- 🤖 I'm working on **IoT projects with AI integration**
 
 ---
 
