@@ -35,7 +35,7 @@ I'm a 4th year Computer Science & Engineering student focused on full-stack deve
 - ⚛️ I'm exploring **Advanced React & Next.js**
 - 📱 I'm learning **React Native** for mobile development
 - 🧠 I'm practicing **Data Structures & Algorithms**
-- 🤖 I'm exploring **AI / Machine Learning**
+- 🤖 I'm exploring **IOT with AI**
 
 ---
 
