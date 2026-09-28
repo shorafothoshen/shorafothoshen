@@ -2,12 +2,18 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header" alt="Banner" />
+
 # 👋 Hi, I'm Shorafot Hosen
 
 ### Full-Stack Developer | CSE Student
 
 <p>
   Building web applications, real-time systems, APIs and exploring AI/IoT.
+</p>
+
+<p>
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 <a href="mailto:shorafothoshen@gmail.com">shorafothoshen@gmail.com</a>
 </p>
 
 <a href="https://github.com/shorafothoshen">
@@ -235,6 +241,10 @@ I regularly practice Data Structures & Algorithms and competitive programming.
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shorafothoshen@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/">
