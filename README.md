@@ -1,6 +1,6 @@
 <!-- ======================= BANNER + NAME + DESIGNATION ======================= -->
 
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Shorafot Hoshen
 
@@ -57,7 +57,7 @@ I'm a 4th year Computer Science & Engineering student focused on full-stack deve
 
 ### Database
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### Mobile
 
@@ -65,19 +65,13 @@ I'm a 4th year Computer Science & Engineering student focused on full-stack deve
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
 <!-- ======================= SOCIAL LINKS ======================= -->
 
-## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shorafothoshen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shorafothoshen@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
 ---
 
