@@ -2,15 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shorafot%20Hosen&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descSize=20&descAlignY=68" alt="Banner" />
+<!-- Banner image: add later -->
 
-<!-- Location + Email -->
-<p>
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <a href="mailto:shorafothoshen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shorafothoshen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# 👋 Hi, I'm Shorafot Hoshen
+
+### Full-Stack Developer | CSE Student
+
+<a href="https://github.com/shorafothoshen">
+  <img src="https://img.shields.io/github/followers/shorafothoshen?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/shorafothoshen?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
