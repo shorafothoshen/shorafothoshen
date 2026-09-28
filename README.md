@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- Banner image: add later -->
+<img src="https://res.cloudinary.com/diuj9r1rj/image/upload/v1790613393/file_00000000fd4c8211b784d3d1047871bb_tstsjy.png" alt="Banner" width="100%" />
 
 # 👋 Hi, I'm Shorafot Hoshen
 
