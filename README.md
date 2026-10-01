@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm Shorafot Hoshen
 
@@ -7,170 +7,70 @@
 ### Full-Stack Developer | CSE Student
 
 <a href="https://github.com/shorafothoshen">
-  <img src="https://img.shields.io/github/followers/shorafothoshen?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/shorafothoshen?label=Followers&style=for-the-badge&logo=github&labelColor=161b22&color=58a6ff" />
 </a>
 <a href="https://github.com/shorafothoshen?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-View-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
 </a>
 
+<br><br>
+
+<img src="assets/about.svg" width="49%" alt="About Me" />
+<img src="assets/learning.svg" width="49%" alt="Currently Learning" />
+
+<br>
+
+## 🛠️ Tech Stack
+
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java&theme=dark" /><br><br>
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" /><br><br>
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark" /><br><br>
+
+**Database**<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /><br><br>
+
+**Mobile (React Native)**<br>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" /><br><br>
+
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+<br><br>
+
+## 📁 Featured Projects
+
+<a href="https://github.com/shorafothoshen"><img src="assets/crime360.svg" width="49%" alt="Crime360" /></a>
+<a href="https://github.com/shorafothoshen"><img src="assets/online-school.svg" width="49%" alt="Online School" /></a>
+<a href="https://github.com/shorafothoshen"><img src="assets/chat-app.svg" width="49%" alt="Real-time Chat App" /></a>
+<a href="https://github.com/shorafothoshen"><img src="assets/esp32-navigation.svg" width="49%" alt="ESP32 Smart Blind Navigation" /></a>
+<a href="https://github.com/shorafothoshen"><img src="assets/nextjs-portfolio.svg" width="49%" alt="Next.js Portfolio" /></a>
+<a href="https://github.com/shorafothoshen"><img src="assets/library.svg" width="49%" alt="Library Management" /></a>
+
+<a href="https://github.com/shorafothoshen?tab=repositories"><b>View all projects →</b></a>
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=shorafothoshen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=14&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shorafothoshen&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14" />
+
+<img src="https://streak-stats.demolab.com?user=shorafothoshen&theme=tokyonight&hide_border=true&border_radius=14&stroke=58a6ff&ring=58a6ff&fire=f78166" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shorafothoshen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true&custom_title=Contribution%20Graph" width="98%" />
+
+<br>
+
+## 🧩 Problem Solving
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-520%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=161b22" /></a>
+<a href="https://codeforces.com/profile/YOUR_CF_USERNAME"><img src="https://img.shields.io/badge/Codeforces-200%2B%20solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=161b22" /></a>
+<a href="https://www.codechef.com/users/YOUR_CC_USERNAME"><img src="https://img.shields.io/badge/CodeChef-50%2B%20solved-8B5E3C?style=for-the-badge&logo=codechef&logoColor=white&labelColor=161b22" /></a>
+
 </div>
-
----
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-### 👨‍💻 About Me
-
-I'm a 4th year Computer Science & Engineering student focused on full-stack development. I enjoy building web applications, real-time systems and APIs with **Django, React and Next.js**, and I also enjoy IoT projects where I use AI.
-
-</td>
-<td width="38%" valign="top">
-
-### 🌱 What I'm Up To
-
-- 🔴 Real-time apps with **Django Channels & WebSockets**
-- ⚛️ Exploring **Advanced React & Next.js**
-- 📱 Learning **React Native**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🤖 **IoT projects with AI integration**
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" align="center">
-
-**Languages**<br><br>
-<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java&perline=3" />
-
-</td>
-<td valign="top" align="center">
-
-**Frontend**<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=3" />
-
-</td>
-<td valign="top" align="center">
-
-**Backend**<br><br>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express&perline=3" />
-
-</td>
-<td valign="top" align="center">
-
-**Database**<br><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
-
-</td>
-<td valign="top" align="center">
-
-**Mobile**<br><br>
-<img src="https://skillicons.dev/icons?i=react&perline=1" /><br>
-<sub>React Native</sub>
-
-</td>
-<td valign="top" align="center">
-
-**Tools**<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=2" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 📁 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[Crime360](https://github.com/shorafothoshen)**<br>
-Crime reporting platform with OTP, NID verification & real-time notifications.<br><br>
-`Django` `React` `Channels`
-
-</td>
-<td width="33%" valign="top">
-
-**[Online School](https://github.com/shorafothoshen)**<br>
-Full-stack learning platform with role-based access, course & assignment system.<br><br>
-`Django` `React` `MySQL`
-
-</td>
-<td width="33%" valign="top">
-
-**[Real-time Chat App](https://github.com/shorafothoshen)**<br>
-WebSocket based chat app with online users and message notifications.<br><br>
-`React` `Django` `WebSocket`
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**[ESP32 Smart Blind Navigation](https://github.com/shorafothoshen)**<br>
-AI-powered object detection with YOLO, Blynk and ESP32-S3.<br><br>
-`ESP32` `YOLO` `IoT`
-
-</td>
-<td width="33%" valign="top">
-
-**[Next.js Portfolio](https://github.com/shorafothoshen)**<br>
-Modern portfolio website with Next.js, Tailwind and daisyUI.<br><br>
-`Next.js` `Tailwind` `React`
-
-</td>
-<td width="33%" valign="top">
-
-**[Library Management](https://github.com/shorafothoshen)**<br>
-Book issue/return system with user management and fine calculation.<br><br>
-`Django` `MySQL`
-
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://github.com/shorafothoshen?tab=repositories">View all projects →</a></p>
-
----
-
-### 📊 GitHub Stats
-
-<table>
-<tr>
-<td align="center" valign="top">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shorafothoshen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
-
-</td>
-<td align="center" valign="top">
-
-<img height="180" src="https://streak-stats.demolab.com?user=shorafothoshen&theme=tokyonight&hide_border=true" />
-
-</td>
-<td align="center" valign="top">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shorafothoshen&layout=donut&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧩 Problem Solving
-
-<p>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-520%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/YOUR_CF_USERNAME"><img src="https://img.shields.io/badge/Codeforces-200%2B%20solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CC_USERNAME"><img src="https://img.shields.io/badge/CodeChef-50%2B%20solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
