@@ -1,5 +1,9 @@
-<div align="center">
+<div align="left">
 
+# 👋 Hi, I'm Shorafot Hoshen
+</div>
+
+<div align="center">
 <img src="https://res.cloudinary.com/diuj9r1rj/image/upload/v1790613393/file_00000000fd4c8211b784d3d1047871bb_tstsjy.png" alt="Banner" width="100%"/>
 
 <br>
@@ -39,7 +43,6 @@ I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on fu
 <img src="https://img.shields.io/badge/Advanced-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117&color=22D3EE" />
 <img src="https://img.shields.io/badge/Advanced-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117&color=22D3EE" /><br>
 <img src="https://img.shields.io/badge/Mobile-React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117&color=22D3EE" /><br>
-<img src="https://img.shields.io/badge/Data_Structures_%26-Algorithms-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D1117&color=22D3EE" /><br>
 <img src="https://img.shields.io/badge/Next_Up-AI%2FML_Models-0D1117?style=flat-square&labelColor=0C4A6E&color=0D1117" />
 
 </td>
@@ -104,21 +107,6 @@ I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on fu
 <tr>
 <td width="50%" valign="top">
 
-#### 🚨 Crime360
-<sub>`BACKEND` • `REAL-TIME`</sub>
-
-Crime reporting and management platform with real-time notifications, email authentication and backend APIs.
-
-<img src="https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Channels-0C4A6E?style=flat-square&logo=socketdotio&logoColor=22D3EE" />
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
 #### 🏫 Online School
 <sub>`FULL-STACK` • `ROLE-BASED ACCESS`</sub>
 
@@ -132,8 +120,6 @@ Full-stack learning platform with role-based access for students, teachers and a
 [🔗 View Project](#)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 💬 Real-time Chat App
@@ -149,6 +135,8 @@ Real-time messaging application with WebSocket communication, online users and i
 [🔗 View Project](#)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🦯 ESP32 Smart Blind Navigation
@@ -160,22 +148,6 @@ IoT-based navigation project using ESP32-S3-CAM, object detection and real-time 
 <img src="https://img.shields.io/badge/IoT-0C4A6E?style=flat-square" />
 <img src="https://img.shields.io/badge/YOLO-0D1117?style=flat-square&color=22D3EE" />
 <img src="https://img.shields.io/badge/Django_REST_API-A30000?style=flat-square&logo=django&logoColor=white" />
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 Next.js Portfolio
-<sub>`FRONTEND` • `RESPONSIVE`</sub>
-
-Modern responsive developer portfolio built with Next.js and Tailwind CSS.
-
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
 
 [🔗 View Project](#)
 
@@ -226,24 +198,11 @@ Book inventory and management system with CRUD operations and database integrati
 
 ## 📈 Contributions
 
-<table width="100%">
-<tr>
-<td align="center" valign="middle">
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorafothoshen&theme=github_dark" alt="Profile Details" width="100%" />
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-
-<a href="https://github.com/shorafothoshen">
-  <img src="https://ghchart.rshah.org/22D3EE/shorafothoshen" alt="Contribution Calendar" width="100%" />
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:22D3EE,100:0D1117" width="100%" />
 
@@ -252,8 +211,8 @@ Book inventory and management system with CRUD operations and database integrati
 <div align="center">
 
 <a href="https://github.com/shorafothoshen"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shorafot-hoshen-875a47308/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:shorafothoshen@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 <br><br>
 
