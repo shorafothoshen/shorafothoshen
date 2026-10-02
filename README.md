@@ -209,13 +209,8 @@ Book inventory and management system with CRUD operations and database integrati
 ## 🤝 Connect
 
 <div align="center">
-
+  
 <a href="https://github.com/shorafothoshen"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,100:0C4A6E&section=footer" width="100%" />
-
 </div>
