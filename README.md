@@ -78,7 +78,6 @@ I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on fu
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 **🗄️ Database**<br><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
@@ -88,7 +87,6 @@ I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on fu
 **⚡ Real-time**<br><br>
 <img src="https://img.shields.io/badge/WebSockets-0C4A6E?style=for-the-badge&logo=socketdotio&logoColor=22D3EE" height="28" /><br><br>
 <img src="https://img.shields.io/badge/Django_Channels-0C4B33?style=for-the-badge&logo=django&logoColor=44B78B" height="28" />
-
 </td>
 <td width="33%" valign="top">
 
