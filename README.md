@@ -26,14 +26,6 @@
 I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on full-stack development and building real-world applications. I enjoy building web applications, real-time systems and APIs with **Django, React and Next.js**, love exploring mobile apps, and also enjoy **IoT** projects where I use AI. Currently, I'm focused on improving my skills, solving problems and building projects that make an impact.
 
 <br>
-
-<img src="https://img.shields.io/badge/Full--Stack-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" />
-<img src="https://img.shields.io/badge/Web_Apps-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" />
-<img src="https://img.shields.io/badge/Real--time_Systems-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" />
-<img src="https://img.shields.io/badge/APIs-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" />
-<img src="https://img.shields.io/badge/Mobile_Apps-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" />
-<img src="https://img.shields.io/badge/IoT_%2B_Object_Detection-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" />
-
 </td>
 <td width="42%" valign="top">
 
