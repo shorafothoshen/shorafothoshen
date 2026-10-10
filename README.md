@@ -70,7 +70,7 @@ I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on fu
 </tr>
 <tr>
 <td width="33%" valign="top">
-**🗄️ Database**<br><br>
+🗄️ Database<br><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 </td>
