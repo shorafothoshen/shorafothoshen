@@ -186,15 +186,6 @@ Book inventory and management system with CRUD operations and database integrati
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:22D3EE,100:0D1117" width="100%" />
 
-## 📈 Contributions
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shorafothoshen&theme=github_dark" alt="Profile Details" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:22D3EE,100:0D1117" width="100%" />
 
 ## 🤝 Connect
 
