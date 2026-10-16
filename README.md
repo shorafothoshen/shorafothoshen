@@ -2,10 +2,8 @@
 
 # 👋 Hi, I'm Shorafot Hoshen
 </div>
-
 <div align="center">
 <img src="https://res.cloudinary.com/diuj9r1rj/image/upload/v1790613393/file_00000000fd4c8211b784d3d1047871bb_tstsjy.png" alt="Banner" width="100%"/>
-
 <br>
 
 <img src="https://img.shields.io/badge/Shorafot_Hoshen-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" />
@@ -183,12 +181,9 @@ Book inventory and management system with CRUD operations and database integrati
 </td>
 </tr>
 </table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:22D3EE,100:0D1117" width="100%" />
 
-
 ## 🤝 Connect
-
 <div align="center">
   
 <a href="https://github.com/shorafothoshen"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
