@@ -93,70 +93,37 @@ I'm a 4th year Computer Science & Engineering student at **BUBT**, focused on fu
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🏫 Online School
-<sub>`FULL-STACK` • `ROLE-BASED ACCESS`</sub>
-
-Full-stack learning platform with role-based access for students, teachers and administrators.
-
-<img src="https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 Real-time Chat App
-<sub>`MOBILE` • `WEBSOCKETS`</sub>
-
-Real-time messaging application with WebSocket communication, online users and instant messaging.
-
-<img src="https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/Channels-0C4A6E?style=flat-square&logo=socketdotio&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/WebSockets-0C4A6E?style=flat-square&logo=socketdotio&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/shorafothoshen/Smart_Blind_Navigation_System">
+  <img src="Smart%20Blind%20Navigation%20System.png" alt="ESP32 Smart Blind Navigation" width="100%"/>
+</a>
 
 #### 🦯 ESP32 Smart Blind Navigation
 <sub>`IOT` • `OBJECT DETECTION`</sub>
 
-IoT-based navigation project using ESP32-S3-CAM, object detection and real-time device communication.
+IoT navigation using ESP32-S3-CAM, object detection and real-time device communication.
 
 <img src="https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C" />
 <img src="https://img.shields.io/badge/IoT-0C4A6E?style=flat-square" />
 <img src="https://img.shields.io/badge/YOLO-0D1117?style=flat-square&color=22D3EE" />
 <img src="https://img.shields.io/badge/Django_REST_API-A30000?style=flat-square&logo=django&logoColor=white" />
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/shorafothoshen/Smart_Blind_Navigation_System)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 📖 Library Management
-<sub>`BACKEND` • `CRUD`</sub>
+<!-- NEXT PROJECT 2 -->
 
-Book inventory and management system with CRUD operations and database integration.
+</td>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-
-[🔗 View Project](#)
+<!-- NEXT PROJECT 3 -->
 
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:22D3EE,100:0D1117" width="100%" />
 
 ## 📊 GitHub Stats
 
