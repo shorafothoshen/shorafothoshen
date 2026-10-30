@@ -125,31 +125,6 @@ IoT navigation using ESP32-S3-CAM, object detection and real-time device communi
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shorafothoshen&show_icons=true&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="100%" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shorafothoshen&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=22D3EE&text_color=9CA3AF" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://streak-stats.demolab.com/?user=shorafothoshen&theme=dark&background=0D1117&border=30363D&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="Contribution Streak" width="100%" />
-
-</td>
-</tr>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:22D3EE,100:0D1117" width="100%" />
-
 ## 🤝 Connect
 <div align="center">
   
